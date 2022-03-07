@@ -1,4 +1,3 @@
-const myBtn = document.getElementById("gen-button");
 let lengthPass = document.getElementById("pass-length");
 
 
