@@ -1,3 +1,27 @@
 h1{
-
+text-align: center;
+color:white;
 }
+
+html{
+  height: 100%;
+  background-color: blue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(blue, yellow);
+}
+#pass-block{
+  align-content: center;
+  color: white;
+text-align: center;
+font-size: 1.2em;
+}
+#gen-button{
+  background-color: rgb(11, 228, 11);
+  font-size: 1.3em;
+}
+#pass-res{
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 3em;
+}
+
